@@ -1,0 +1,9 @@
+.front-page-body {
+    margin: 0;
+}
+
+.front-page {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
